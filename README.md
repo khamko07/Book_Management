@@ -1,4 +1,4 @@
-# CRUD Book Management ( I'm use AI for write this file Readme )
+# CRUD Book Management
 
 ## Table of Contents
 1. [Introduction](#introduction)
