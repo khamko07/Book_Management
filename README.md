@@ -32,7 +32,7 @@ CRUD Book Management is a web application built with Laravel that allows users t
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/CRUD_Book_Management.git
+    git clone https://github.com/khamko07/Book_Management.git
     ```
 2. Navigate to the project directory:
     ```sh
