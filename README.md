@@ -80,7 +80,8 @@ CRUD Book Management is a web application built with Laravel that allows users t
 - If you encounter any issues, please check the Laravel logs in `storage/logs/laravel.log`.
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- [Khamko](https://github.com/khamko07)
+- Pascalia Asia Company
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+© 2025 Khamko. All rights reserved.
